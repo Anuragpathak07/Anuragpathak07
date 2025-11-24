@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![gitartwork](https://github.com/Anuragpathak07/Cleaned-SVG/blob/main/gitartwork.svg)
 
 <!--
