@@ -1,5 +1,5 @@
 ## Hi there 👋
-![gitartwork](https://github.com/Anuragpathak07/Profile-Overhaul/blob/main/gitartwork.svg)
+![gitartwork](https://github.com/Anuragpathak07/Cleaned-SVG/blob/main/gitartwork.svg)
 
 <!--
 **Anuragpathak07/Anuragpathak07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
