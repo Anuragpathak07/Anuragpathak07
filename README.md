@@ -14,7 +14,7 @@ I’m an AI/ML Engineer and Full-Stack Web Developer who loves turning data, map
 ![](https://nirzak-streak-stats.vercel.app/?user=Anuragpathak07&theme=catppuccin_latte&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragpathak07&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
