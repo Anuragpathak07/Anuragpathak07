@@ -35,12 +35,6 @@ from multi-agent RAG pipelines and LLM integrations to validated, test-covered b
 **ElectroPower Technologies** — Full-Stack Application Intern *(Nov 2025 – Feb 2026)*  
 Built a scalable Android application managing **80,000+ records**. Integrated Google Drive & Sheets APIs, SMS-based real-time notifications, and automated PDF report generation. **Validated pre-production stability through unit testing** across core data and API modules.
 
-**Vruksh Ecosystem Foundation** — Full Stack & ML Intern *(Jul 2025 – Jan 2026)*  
-Building **IRIS**, a multi-agent RAG system for healthcare bibliometric analytics using LangGraph, OpenAI, and pgvector.
-
-**TechWalnut Innovations LLP** — Machine Learning Intern *(May 2025 – Aug 2025)*  
-Trained and evaluated ML models on **12,000+ records** across computer vision and NLP tasks. **Automated testing pipelines reducing manual effort by 35%.**
-
 **Maharashtra Remote Sensing Application Centre (MRSAC)** — AI/ML Intern *(Apr 2025 – May 2025)*  
 Engineered a web portal and Android field survey app processing **50,000+ records** with GPS attribute capture and NetCDF-to-CSV preprocessing pipelines.
 
@@ -52,9 +46,7 @@ Engineered a web portal and Android field survey app processing **50,000+ record
 |---|---|---|
 | **[AI Health Hub](https://github.com/Anuragpathak07)** | Clinical intelligence platform with a 4-agent AI pipeline (Vitals, Lab, Risk, Medical Scribe) powered by LLaMA-3 via Groq. RAG-based chat over DICOM, PDF, CSV & VCF patient data. | Flask, SQLAlchemy, LLaMA-3, Groq, FAISS |
 | **[Research Synthesis Suite](https://github.com/Anuragpathak07)** | Multi-agent ReAct platform for automated literature discovery & research gap detection. FAISS + LLaMA-3 RAG with hash-based caching to eliminate redundant LLM calls. | Flask, FAISS, LLaMA-3, Ollama |
-| **[TaskFlow](https://github.com/Anuragpathak07)** | Production-grade distributed task queue with Redis priority scheduling, Groq LLM classifier, DLQ, and real-time SSE dashboard. **23 tests, CI/CD via GitHub Actions.** | Python, Redis, Groq API, Flask, Pytest |
-| **[SaaSTrack AI](https://github.com/Anuragpathak07)** | Enterprise SaaS license manager with LangChain AI agent, 24 REST endpoints, and autonomous cost optimization across 10–15 tools. | Django, PostgreSQL, LangChain, NextJS |
-| **[IRIS](https://github.com/Anuragpathak07)** | Agentic AI pipeline for semantic search across 10,000+ healthcare research records. Reduced analysis effort by 40%, cut query latency by 50%. | LangGraph, OpenAI, Supabase, pgvector |
+| **[GeoSentinel](https://github.com/Anuragpathak07)** | Real-time risk assessment dashboard and digital twin with end-to-end sensor + geospatial data pipelines and live safety alerts. | Python, Geospatial APIs, React |
 
 > 📁 More projects on [GitHub →](https://github.com/Anuragpathak07)
 
@@ -134,10 +126,3 @@ Engineered a web portal and Android field survey app processing **50,000+ record
 
 ---
 
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=Anuragpathak07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
