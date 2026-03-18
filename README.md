@@ -4,12 +4,12 @@
 
 # Anurag Pathak
 
-**AI/ML Engineer · Full-Stack Developer · Geospatial Tech**
+**AI/ML Engineer · Full-Stack Developer · QA & Testing**
 
 B.Tech CSE (AI & ML) @ Ramdeobaba University · CGPA 9.15 · Expected June 2027
 
-I build production-grade agentic AI systems, geospatial web portals, and full-stack applications —  
-turning LLMs, maps, and real-world data into usable, impactful products.
+I build production-grade agentic AI systems and full-stack applications —  
+from multi-agent RAG pipelines and LLM integrations to validated, test-covered backends.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-pathak-2b043b197)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anuragpathak207)
@@ -24,25 +24,25 @@ turning LLMs, maps, and real-world data into usable, impactful products.
 ## 🧠 What I Work On
 
 - 🤖 **Agentic AI & RAG** — multi-agent pipelines with LLaMA-3, FAISS, ReAct, LangChain & LangGraph
-- 🗺️ **Geospatial Systems** — 3D mapping dashboards, spatial data pipelines, Android field survey apps
+- 🧪 **QA & Test Engineering** — unit testing, CI/CD pipelines, pre-production validation, automated test suites
 - 🌐 **Full-Stack Web Apps** — React + Flask/Django backends with REST APIs
-- 📱 **Mobile & Desktop** — Android (Kotlin) apps with Google APIs integration
+- 📱 **Mobile Development** — Android (Kotlin) apps with Google APIs integration
 
 ---
 
 ## 💼 Experience
 
 **ElectroPower Technologies** — Full-Stack Application Intern *(Nov 2025 – Feb 2026)*  
-Built a scalable Android application managing **80,000+ records** with optimized database performance. Integrated Google Drive & Sheets APIs, SMS-based real-time notifications, and automated PDF report generation. Validated pre-production stability with unit tests across core data and API modules.
+Built a scalable Android application managing **80,000+ records**. Integrated Google Drive & Sheets APIs, SMS-based real-time notifications, and automated PDF report generation. **Validated pre-production stability through unit testing** across core data and API modules.
 
 **Vruksh Ecosystem Foundation** — Full Stack & ML Intern *(Jul 2025 – Jan 2026)*  
 Building **IRIS**, a multi-agent RAG system for healthcare bibliometric analytics using LangGraph, OpenAI, and pgvector.
 
 **TechWalnut Innovations LLP** — Machine Learning Intern *(May 2025 – Aug 2025)*  
-Trained and evaluated ML models on **12,000+ records** across computer vision and NLP tasks. Automated testing pipelines reducing manual effort by 35%.
+Trained and evaluated ML models on **12,000+ records** across computer vision and NLP tasks. **Automated testing pipelines reducing manual effort by 35%.**
 
 **Maharashtra Remote Sensing Application Centre (MRSAC)** — AI/ML Intern *(Apr 2025 – May 2025)*  
-Engineered a geospatial web portal and Android field survey app processing **50,000+ spatial records** with GPS attribute capture and NetCDF-to-CSV preprocessing pipelines (TuljaBhawani Temple 3D mapping project).
+Engineered a web portal and Android field survey app processing **50,000+ records** with GPS attribute capture and NetCDF-to-CSV preprocessing pipelines.
 
 ---
 
@@ -50,11 +50,10 @@ Engineered a geospatial web portal and Android field survey app processing **50,
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[AI Health Hub](https://github.com/Anuragpathak07)** | Clinical intelligence platform with a 4-agent AI pipeline (Vitals, Lab, Risk, Medical Scribe) powered by LLaMA-3 via Groq. RAG-based chat agent for natural language queries over DICOM, PDF, CSV & VCF patient data. | Flask, SQLAlchemy, LLaMA-3, Groq, FAISS |
+| **[AI Health Hub](https://github.com/Anuragpathak07)** | Clinical intelligence platform with a 4-agent AI pipeline (Vitals, Lab, Risk, Medical Scribe) powered by LLaMA-3 via Groq. RAG-based chat over DICOM, PDF, CSV & VCF patient data. | Flask, SQLAlchemy, LLaMA-3, Groq, FAISS |
 | **[Research Synthesis Suite](https://github.com/Anuragpathak07)** | Multi-agent ReAct platform for automated literature discovery & research gap detection. FAISS + LLaMA-3 RAG with hash-based caching to eliminate redundant LLM calls. | Flask, FAISS, LLaMA-3, Ollama |
-| **[GeoSentinel](https://github.com/Anuragpathak07)** | Real-time risk assessment dashboard and digital twin with end-to-end sensor + geospatial data pipelines and live safety alerts. | Python, Geospatial APIs, React |
-| **[TaskFlow](https://github.com/Anuragpathak07)** | Production-grade distributed task queue with Redis priority scheduling, Groq LLM classifier, DLQ, real-time SSE dashboard. 23 tests, CI/CD via GitHub Actions. | Python, Redis, Groq API, Flask |
-| **[SaaSTrack AI](https://github.com/Anuragpathak07)** | Enterprise SaaS license manager with LangChain AI agent, 24 REST endpoints, and autonomous cost optimization engine tracking 10–15 tools across departments. | Django, PostgreSQL, LangChain, NextJS |
+| **[TaskFlow](https://github.com/Anuragpathak07)** | Production-grade distributed task queue with Redis priority scheduling, Groq LLM classifier, DLQ, and real-time SSE dashboard. **23 tests, CI/CD via GitHub Actions.** | Python, Redis, Groq API, Flask, Pytest |
+| **[SaaSTrack AI](https://github.com/Anuragpathak07)** | Enterprise SaaS license manager with LangChain AI agent, 24 REST endpoints, and autonomous cost optimization across 10–15 tools. | Django, PostgreSQL, LangChain, NextJS |
 | **[IRIS](https://github.com/Anuragpathak07)** | Agentic AI pipeline for semantic search across 10,000+ healthcare research records. Reduced analysis effort by 40%, cut query latency by 50%. | LangGraph, OpenAI, Supabase, pgvector |
 
 > 📁 More projects on [GitHub →](https://github.com/Anuragpathak07)
@@ -77,7 +76,6 @@ Engineered a geospatial web portal and Android field survey app processing **50,
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
 
 **Backend**  
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
@@ -99,9 +97,11 @@ Engineered a geospatial web portal and Android field survey app processing **50,
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 
-**DevOps & Cloud**  
+**QA & DevOps**  
+![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=flat-square&logo=pytest&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
