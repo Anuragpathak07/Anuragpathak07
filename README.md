@@ -47,7 +47,7 @@ Engineered a web portal and Android field survey app processing **50,000+ record
 | **[AI Health Hub](https://github.com/Anuragpathak07/AI_Health_Hub)** | Clinical intelligence platform with a 4-agent AI pipeline (Vitals, Lab, Risk, Medical Scribe) powered by LLaMA-3 via Groq. RAG-based chat over DICOM, PDF, CSV & VCF patient data. | Flask, SQLAlchemy, LLaMA-3, Groq, FAISS |
 | **[Research Synthesis Suite](https://github.com/Anuragpathak07/Research-AI)** | Multi-agent ReAct platform for automated literature discovery & research gap detection. FAISS + LLaMA-3 RAG with hash-based caching to eliminate redundant LLM calls. | Flask, FAISS, LLaMA-3, Ollama |
 | **[GeoSentinel](https://github.com/Anuragpathak07/GeoSentinel)** | Real-time risk assessment dashboard and digital twin with end-to-end sensor + geospatial data pipelines and live safety alerts. | Python, Geospatial APIs, React |
-| **[CogniPrep : AI Learning Platform](https://github.com/Anuragpathak07/CogniPrep))** | Developed a Flask backend pipeline processing academic PDFs via PyPDF2, generating summaries, flashcards, and quizzes using Cohere Command LLM with asyncio parallel processing | | Achieved 75% QA accuracy and reduced content generation latency by ~40% through concurrent API orchestration |
+| **[CogniPrep : AI Learning Platform](https://github.com/Anuragpathak07/CogniPrep)** | Flask backend pipeline processing academic PDFs via PyPDF2, generating summaries, flashcards & quizzes using Cohere Command LLM with asyncio parallel processing. **Achieved 75% QA accuracy and ~40% latency reduction** through concurrent API orchestration. | Flask, PyPDF2, Cohere, asyncio |
 
 
 ---
